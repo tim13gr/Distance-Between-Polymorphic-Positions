@@ -1,6 +1,6 @@
 # Distance-Between-Polymorphic-Positions
 
-Calculate the distances between polymorphic positions on HLA-gene using a starting msf from IMGT.
+Calculates the distances between polymorphic positions on HLA-gene using a starting msf from IMGT.
 
 Usage of DistBtwnPolymorhicPos.py script in the mainScript folder
 
